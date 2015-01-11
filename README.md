@@ -21,5 +21,13 @@ $ git submodule update --init --recursive
 
 You will need to follow mobile-chrome-apps [Installation guide](https://github.com/MobileChromeApps/mobile-chrome-apps#try-it-out) to build.
 
+## Icons needed
+As a respectable mobile application I lack icons:
+
+  * 36px x 36px
+  * 48px x 48px
+  * 78px x 78px
+  * 96px x 96px
+
 [adc]: https://github.com/mrgamer/alldebrid-chrome
 [ad]: http://www.alldebrid.com/
